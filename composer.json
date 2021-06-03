@@ -14,7 +14,7 @@
     "require": {
         "php": ">=7.0",
         "swlib/saber": "^1.0",
-        "jdmmswoft/http-client": "1.0.12.x-dev"
+        "jdmmswoft/http-client": "1.0.10.x-dev"
     },
     "autoload": {
         "psr-4": {
